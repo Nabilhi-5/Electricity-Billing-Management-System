@@ -1,0 +1,1 @@
+Built a Smart Billing Management System using Java with server-based storage and SSLCommerz payment integration. Enabled customers to pay bills online and allowed admins to manage and assign billing data to user accounts. Improved billing efficiency and data management through a structured and secure system.
